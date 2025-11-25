@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bio-data</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e8f0f8;
+    }
+    .box {
+      width: 480px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 20px;
+      border: 2px solid #333;
+      border-radius: 10px;
+      box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+    }
+    h2 {
+      text-align: center;
+      color: darkblue;
+      text-decoration: underline;
+    }
+    p {
+      margin: 8px 0;
+      font-size: 15px;
+    }
+    .label {
+      font-weight: bold;
+      color: #222;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>Bio-data</h2>
+    <p><span class="label">Name:</span> Dipak Parajuli</p>
+    <p><span class="label">Class:</span> 11</p>
+    <p><span class="label">Stream:</span>  computer science</p>
+    <p><span class="label">Age:</span> 17</p>
+    <p><span class="label">Gender:</span> Male</p>
+    <p><span class="label">Address:</span> Itahari, Sunsari</p>
+    <p><span class="label">Contact:</span> 9805345766</p>
+    <p><span class="label">Hobby:</span> PLAYING CIRCKET</p>
+    <P><span class="label">Skills:</span> Graphic design
+                                          Digital marketing
+                                          communication 
+                                        coding </p>
+  </div>
+</body>
+</html>
